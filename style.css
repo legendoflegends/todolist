@@ -1,0 +1,35 @@
+body {
+  background-color: lightgrey;
+  color: black; /* Change the text color to make it visible */
+  text-align: center;
+  margin: 0; /* Remove default margin to cover the entire page */
+  padding: 0; /* Remove default padding */
+}
+
+.first {
+  max-width: 800px; /* Limit the width of the .first div if needed */
+  margin: 0 auto; /* Center the .first div horizontally */
+}
+
+h1 {
+  font-size: 30px;
+}
+
+#text {
+  text-align: center; /* Center the text within the div */
+}
+
+
+.lil{
+  background-color: rgba(7, 167, 127, 0.356);
+  color: black;
+  width: 0 auto;
+  height: 0 auto;
+  margin: 0 auto;
+}
+
+
+#delete{
+  margin-left: 770px;
+  margin-top: 1px;
+}
